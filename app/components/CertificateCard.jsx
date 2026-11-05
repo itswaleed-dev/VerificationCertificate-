@@ -65,7 +65,7 @@ export default function CertificateCard({ data }) {
           </div>
 
           <header className="certificate-heading">
-            <h2>Waleed Brothers</h2>
+            <h2>Haroon Brothers</h2>
             <p>Academy of Technology &amp; Professional Excellence</p>
             <span aria-hidden="true" />
           </header>

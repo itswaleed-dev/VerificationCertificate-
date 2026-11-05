@@ -12,7 +12,7 @@ export default function Header() {
             </svg>
           </span>
           <span>
-            <span className="brand-name">Waleed Brothers</span>
+            <span className="brand-name">Haroon Brothers</span>
             <span className="brand-subtitle">Official Certificate Verification Portal</span>
           </span>
         </Link>
