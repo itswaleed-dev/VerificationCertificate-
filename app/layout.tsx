@@ -4,8 +4,8 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 
 export const metadata: Metadata = {
-  title: "My Website",
-  description: "My Next.js Website",
+  title: "Certificate Verification",
+  description: "Verify the authenticity of certificates",
 };
 
 export default function RootLayout({
